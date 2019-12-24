@@ -1,0 +1,3 @@
+﻿  snake_spiral.cpp
+D:\Моя прелесть\KOD\CHICHIGA\snake_spiral\snake_spiral\snake_spiral.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  snake_spiral.vcxproj -> D:\Моя прелесть\KOD\CHICHIGA\snake_spiral\Debug\snake_spiral.exe

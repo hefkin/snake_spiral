@@ -35,17 +35,17 @@ int main()
 	{
 		cin.clear();
 		cin.ignore((numeric_limits<streamsize>::max)(), '\n');
-		cout << "Некоректные данные, попробуйте снова" << endl;
+		cout << "Некорректные данные, попробуйте снова" << endl;
 	}
 
 	while (n > 10)
 	{
-		cout << "Некоректные данные, попробуйте снова" << endl;
+		cout << "Некорректные данные, попробуйте снова" << endl;
 		while (!(cin >> n) || (cin.peek() != '\n'))
 		{
 			cin.clear();
 			cin.ignore((numeric_limits<streamsize>::max)(), '\n');
-			cout << "Некоректные данные, попробуйте снова" << endl;
+			cout << "Некорректные данные, попробуйте снова" << endl;
 		}
 	}
 
